@@ -1,0 +1,16 @@
+text.label {
+	font-size: 24px;
+	fill: #111;
+}
+text.label.credit {
+	font-size: 10px;
+}
+
+circle, path{
+	cursor: pointer;
+}
+
+circle{
+	fill: none;
+	pointer-events: all;
+}
