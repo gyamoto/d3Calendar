@@ -1,1 +1,1 @@
-[D3.js](http://d3js.org/)をつかってパーセントで見るカレンダー[つくってみた](http://farundorl.github.io/d3Calendar)
+[D3.js](http://d3js.org/)をつかって[パーセントで見るカレンダー](http://gyamoto.github.io/d3Calendar)
